@@ -1,0 +1,18 @@
+body{
+  padding:0px;
+  margin:0px;
+  text-align:center;
+  background-color:black;
+  color:#fff;
+}
+#example{
+  font-size:2rem;
+  font-family:monospace;
+}
+.explain{
+  font-size:2.5rem;
+}
+.example{
+  border:1px solid #fff;
+  font-size:2rem;
+}
